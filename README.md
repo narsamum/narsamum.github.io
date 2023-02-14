@@ -1,2 +1,5 @@
 # narsamum.github.io
-# testing
+# Discography
+# About
+# Galery
+
