@@ -5,8 +5,8 @@ permalink: /biography/
 ---
 
 
-Najib - vokal
-Hata - gitar
-Taufek - gitar
-Farid - bass
+Najib - vokal;
+Hata - gitar;
+Taufek - gitar;
+Farid - bass;
 Ajin - drum
