@@ -27,6 +27,9 @@ url: "https://narsamum.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: 
 github_username:  
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # Build settings
 theme: minima
 plugins:
