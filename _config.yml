@@ -23,9 +23,9 @@ email: helffire@narsamum.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 header_page: 
-- index.md
-- about.md
-- biography.md
+- index.markdown
+- about.markdown
+- biography.markdown
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://narsamum.com" # the base hostname & protocol for your site, e.g. http://example.com
