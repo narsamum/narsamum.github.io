@@ -10,7 +10,7 @@ menu:
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Biography',          url: 'Biography'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
