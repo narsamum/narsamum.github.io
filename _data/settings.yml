@@ -7,9 +7,9 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'video'}
-- {name: 'Learning Resources', url: 'discography'}
-- {name: 'Sample Posts',       url: 'merch store'}
+- {name: 'Video',              url: 'video'}
+- {name: 'Discography',        url: 'discography'}
+- {name: 'Merch Store',        url: 'merch store'}
 - {name: 'Biography',          url: 'biography'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
