@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "Narsamum"
   spec.version       = "2.0.0"
-  spec.authors       = ["Adminfire"]
+  spec.authors       = ["adminfire"]
   spec.email         = ["hellfire@narsamum.com"]
 
   spec.summary       = "A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages"
