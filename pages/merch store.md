@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
-category: sample
-permalink: /sample-posts
+title: Smerch store
+category: merch store
+permalink: /merch-store
 ---
